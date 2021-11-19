@@ -11,6 +11,7 @@ public class App {
     static final String USER = "root";
     static final String PASS = "L@xy2016";
 
+
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
